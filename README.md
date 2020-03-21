@@ -1,2 +1,0 @@
-# skyclouds-bot
-yeet
